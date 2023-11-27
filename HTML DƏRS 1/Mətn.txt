@@ -1,0 +1,19 @@
+Hamıya salam. Bu günkü video dərslikdə biz sizinlə HTML haqqında ilkin sadə məlumatlar əldə edəcəyik və ümumiyyətlə bu videodan etibarən biz sizinlə HTML, CSS və JavaScript haqqında ətraflı məlumatlar əldə edəcəyik. Bu videonun mövzusu isə əsasən HTML nədir sualına cavab verməkdir.
+
+HTML sözünün mənası HyperText markup language yəni => Hiper mətn işarələmə dili deməkdir.
+Adındanda anladığınız kimi HTML bir programlaşdırma dili yox, işarələmə dilidir. Bu səbəblə HTML-i öyrənmək, programlaşdırma dillərini öyrənməktən nisbətən daha sadədir.
+
+HTML-i öyrənmək nə qədər asan olsa da, onu əsil mənada istifadə etmək HTML-in özü qədər sadə deyil çünki HTML tək başına vizual və funksionallıq cəhətdən vebsayt yaratmağa kifayət deyil. Tam funksional vebsayt yaratmaq üçün siz digər texnologiyalarıda istifadə etməyi nəzərə almalısınız. Bunlar başlanğıcda CSS və JavaScript dən ibarətdir.
+
+Mən bu videoda HTML-dən fərqli olan texnologiyaların çoxda detallarına girməyəcəm ancağ qısa şəkildə bunların nə olduğunu desək:
+	CSS - mənası Cascading Style Sheets yəni => Mərtəbəli stil səhifələri deməkdir. CSS-də bir programlaşdırma dili deyil, məqsədi HTML və ya XML ilə yazılmış sənətləri(vebsaytları) rəngləmək, səliqəyə salmaq və boşluqları doldurmaqdır.
+	Qısaca desək CSS veb səhifələrini dizayn etmək üçündür.
+	
+	JavaScript, əsasən veb səhifələrinə interaktiv hərəkət qabiliyyəti əlavə etmək və funksionallığı artırmaq üçün istifadə olunur. HTML və CSS dən fərqli olaraq JavaScript bir programlaştırma dilidir. Ona görə də bu digər ikisinə nisbətən biraz daha çətindir.
+	
+Yenidən HTML-ə dönsək, HTML-i istifadə etmək üçün, bizə bir veb brauzer lazımdır. Bu istənilən veb brauzer ola bilər məsələn: Google, Microsoft Edge, FireFox və s.
+
+Kod yazarkən işimizi asanlaşdırması üçün isə bizə bir text editor lazımdır hansı ki VS Code bunların arasında ən çox istifadə ediləndir və demək olarki bütün programlaşdırma dilləri üçün istifadə olunur.
+
+Və bu videoluq bu qədər, növbəti videoda sizə VS-Code tətbiqini necə yükləməli olduğunuzu göstərəcəm, əgər bu video sizə HTML barədə birazda olsa məlumat verdisə, videonu bəyənib, kanala abunə olub bunu komentdə mənə bildirə bilərsiniz, sağ olun.
+
