@@ -1,0 +1,20 @@
+Salamlar təkrardan, bu videodan etibarən biz sizinlə HTML strukturu haqqında danışacıyıq. Gəlin ilk öncə özümüzə bir HTML faylı yaratmağın yollarına baxaq.
+
+Mən sizə bunu etməyin 2 yolunu göstərəcəm, və məsləhətli olanı sizə deyəcəm. Hansını istifadə edib etməmək sizin tamamilə özünüzdən asılıdır.
+
+
+İlk üsul və asand üsul: 
+	ekranımızda bir qovluq yaradırıq və adını test-folder(və s) qoyuruq. Daha sonra isə vs code'a daxil oluruq, daha sonra isə buradan sol üst hissəyə daxil olub open folder deyib yaratmış olduğumuz qovluğu seçirik. Daha sonra isə bu hissədən +(add file)'a toxunub  sonu ".html" ilə bitən fayl yaradırıq. 
+	Adətən vebsayt yaradərkən ilk html fayllarının adı "index.html" olur buna səbəbi isə bir çox veb hoster bu adı vebsitə açılış səhifəsi olaraq, avtomatik olaraq alğılayır və buda bizim işimizi asanlaşdırır.
+
+
+
+İkinci üsul (çətin üsul): 
+	Klaviyaturada Start və R düymələrini eyni anda basırıq. Qarşımıza "Run" pəncərəsi açılır.
+	"Run" pəncərəsinə cmd yazıb OK deyirik. Və beləliklə Windowsda command prompt'u acırıq. Əgər siz MAC OS istifadə edirsinizsə səbrli olun indi izah edəcəm. Windowsda Command Promptu açtıqdan sonra CD (compact disc) in qısaldması + Desktop yazıb desktopa daxil oluruq.
+	"cd desktop"
+	Desktopa daxil olduqdan sonra mkdir yəni => make directory deyib bir folder adı qeyd edirik, məsələn test-website.
+	Özümüzə bir qovluq yaratdıqdan sonra yebidən cd yəni => compact disc yazıb yaratmış olduğumuz foldera yönləndiririk.
+	"cd test-folder"
+	Daha sonra isə bunu VS code da açmaq üçün code yazıb nöqtə qoyuruq(code .). Və gördüyünüz kimi vs code un içində bizim folderimiz açıldı, bu hissədən + a toxunub  sonu .html ilə bitən bir fayl yaradırıq. 
+	Adətən ilk html fayllarının adı index.html olur bunu səbəbi isə bir çox veb hoster bu adı vebsitə açılış səhifəsi olaraq avtomatik olaraq alğılayır və buda bizim işimizi asanlaşdırır.
